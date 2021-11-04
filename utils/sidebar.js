@@ -1,1 +1,1 @@
-module.exports =["index.md","1.安装与使用.md","2.基本使用.md","3.异步使用.md"]
+module.exports =["index.md","1.安装使用.md","2.基本用例.md","3.异步配置.md","4.表单校验.md","5.样式布局.md"]
