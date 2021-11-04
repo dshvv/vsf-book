@@ -31,12 +31,11 @@ module.exports = {
       {
         componentsDir: path.resolve(__dirname, './components'),
       },
-    ],
+    ]
   ],
   markdown: {
     importCode: {
-      handleImportPath: (str) =>
-        str.replace(/^@cmp/, path.resolve(__dirname, './components')),
+      handleImportPath: (str) =>str.replace(/^@cmp/, path.resolve(__dirname, './components'))
     },
   },
   bundlerConfig: {
