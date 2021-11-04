@@ -44,6 +44,7 @@ export default defineComponent({
 </script>
 <style lang="less" scoped>
 .effect-code {
+  margin: 10px 0;
   border: #eeeeee solid 1px;
   padding: 30px 10px;
   padding-bottom: 10px;
