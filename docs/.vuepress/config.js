@@ -2,6 +2,7 @@ const sidebar = require('../../utils/sidebar');
 const { path } = require('@vuepress/utils')
 
 module.exports = {
+  port: '80',
   lang: 'zh-CN',
   title: 'VSchemaForm',
   description: 'VSchemaForm示例',
